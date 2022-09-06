@@ -1,4 +1,4 @@
-# frontEnd_chainSwap
+# FrontEnd_chainSwap
 Front End repository for the Uniswap Clone project strictly for educating purposes
 
 
@@ -64,11 +64,4 @@ yarn dev
 
 To learn more about React take a look at the following resources:
 
-
-
-
-
-
-
-
-
+- [React documentation](https://www.google.com/url?sa=t&source=web&rct=j&url=https://reactjs.org/docs/getting-started.html&ved=2ahUKEwiC3vCzvf_5AhUQh_0HHUbdD8YQFnoECAoQAQ&usg=AOvVaw2ELKlyujw4msP4lLpv0rOd) - Learn about react and it's installation
