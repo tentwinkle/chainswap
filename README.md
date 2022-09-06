@@ -34,24 +34,6 @@ yarn install
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 First, run the development server:
 
 ```bash
@@ -75,8 +57,6 @@ yarn dev
     ├── hooks           # All hooks
 
     ├── assets          # Images
-
-
 
     └── ...      └──package.json    # Contains all dependencies
 
