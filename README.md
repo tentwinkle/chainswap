@@ -2,8 +2,6 @@
 Front End repository for the Uniswap Clone project strictly for educating purposes
 
 
-
-
 # Getting Started
 
 Navigate to directory on your machine:
